@@ -306,7 +306,7 @@ export function ReactorPlayground() {
                 </div>
               </div>
             )}
-          </CardContent>
+          </CardContent>0q
         </Card>
       </div>
     </div>
